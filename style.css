@@ -1,0 +1,81 @@
+.ma {
+  padding-top: 20px;
+  background-color: hsl(30, 54%, 90%);
+  height: 600px;
+}
+@media screen and (max-width: 600px) .div1 {
+  padding: 20px;
+  background-color: white;
+  height: 95%;
+  width: 23%;
+  margin-left: 370pt;
+  border-radius: 3%;
+}
+.h1 {
+  font-size: 16px;
+  font-family: Young Serif;
+}
+.p1 {
+  font-size: 7px;
+  font-family: Young Serif;
+  color: hsl(30, 10%, 34%);
+}
+.h2 {
+  font-size: 10px;
+  font-weight: 400;
+  font-family: Young Serif;
+  color: hsl(332, 51%, 32%);
+}
+.u1 {
+  font-size: 7px;
+  font-weight: 400;
+  font-family: Young Serif;
+  padding-left: 10px;
+  color: hsl(30, 10%, 34%);
+}
+.sp1 {
+  color: hsl(24, 5%, 18%);
+}
+.u2 {
+  font-size: 7px;
+  font-weight: 400;
+  font-family: Outfit;
+  padding-left: 10px;
+  color: hsl(30, 10%, 34%);
+}
+.h2 {
+  font-size: 12px;
+  font-weight: 600;
+  font-family: Outfit;
+  color: hsl(14, 45%, 36%);
+}
+.o1 {
+  font-size: 7px;
+  font-weight: 600;
+  font-family: outfit;
+  padding-left: 10px;
+  color: hsl(30, 10%, 34%);
+}
+.sp3 {
+  color: hsl(24, 5%, 18%);
+}
+.sp4 {
+  color: hsl(24, 5%, 18%);
+}
+.h3 {
+  font-size: 12px;
+  font-weight: 700;
+  font-family: Outfit;
+  color: hsl(14, 45%, 36%);
+}
+.p3 {
+  font-size: 7px;
+  font-weight: 700;
+  font-family: Outfit;
+  color: hsl(30, 10%, 34%);
+}
+.sp5 {
+  font-size: 7px;
+  font-family: Outfit;
+  color: hsl(30, 10%, 34%);
+}
